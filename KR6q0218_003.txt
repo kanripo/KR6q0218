@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:48:01.220385
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:47
 #+TITLE: 學佛考訓
 #+PROPERTY: CBETA_ID J34nB295
 #+PROPERTY: ID KR6q0218
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 34, No. B295
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0218_J_003-0008b> 
 #+PROPERTY: JUAN 3
-
- 學佛考訓卷三¶
+學佛考訓卷三¶
 錢唐俍亭和尚淨挺緝¶
 秀州息波道人成源訂¶
 
-華雨¶
+* 華雨¶
 
 義虎未遙石麟有托取支那之言論求東土之齒¶
 牙將續貫花務弘卷軸。¶
